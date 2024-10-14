@@ -1,5 +1,6 @@
 # GradingInnopolis
 A test repository for educational purposes.
+<<<<<<< HEAD
 
 # Чат-бот на основе Llama
 
@@ -53,3 +54,5 @@ python main/app.py --model_url https://example.com/path/to/your/model.gguf
 
 - Убедитесь, что у вас есть доступ к интернету для загрузки модели, если она не находится локально.
 - Модель должна быть в формате GGUF.
+=======
+>>>>>>> d5068a68fa8149d01e48e030b6c26468998aac05
