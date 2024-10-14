@@ -1,3 +1,17 @@
+# прописано руками
+# Игнорировать виртуальное окружение
+.venv/
+
+# Игнорировать файлы кэша Python
+__pycache__/
+*.pyc
+
+# Игнорировать файлы конфигурации IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+#Создано при инициализации репозитория
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,4 @@
+data-downloader
+llama-cpp-python==0.3.1
+gradio>5
+requests
